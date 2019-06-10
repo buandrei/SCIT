@@ -60,7 +60,7 @@ public class Main {
         //incercarea de eliminare a unui astfel de obiect nu este posibila
         //deoarece doua cuiere ce au aceeasi culoare nu sunt acelasi cuier
         //listaCarti.remove(new Novel("drama"));
-
+.
 
         //INCERCARE DE STERGERE A UNUI ELEMENT DIN LISTA
         //folosind un for cu generice -> eu zic ca nu va intereseaza termenul inca
