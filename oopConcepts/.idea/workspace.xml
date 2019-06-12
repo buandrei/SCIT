@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/sci/heap_stack/TestClass.java" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5522f27e-59e4-4ebc-ac99-ec7f77dff58e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sci/feature1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sci/feature1/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5522f27e-59e4-4ebc-ac99-ec7f77dff58e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/sci/feature1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -489,7 +486,7 @@
     <entry file="file://$PROJECT_DIR$/src/sci/feature1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
         </state>
       </provider>
     </entry>
